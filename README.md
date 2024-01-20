@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 CS student at BYU | 🚀 Web Developer at LearningSuite<br><br>💻 Languages: Scala, TypeScript, Vue.js, React Native | 🗃️ Databases: PostgreSQL, MongoDB, DynamoDB<br><br>📚 Currently diving into ZIO ecosystem
+👨‍💻 CS student at BYU | 🚀 Web Developer at LearningSuite<br><br>💻 Languages/Frameworks: Scala, TypeScript, Vue.js, React Native | 🗃️ Databases: PostgreSQL, MongoDB, DynamoDB<br><br>📚 Currently diving into ZIO ecosystem
 
 
 ## 🌐 Socials:
